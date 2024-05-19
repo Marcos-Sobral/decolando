@@ -28,7 +28,7 @@ h2{
     color: #303030;
     font-weight: 600;
 }
-
+/*
 nav li a{
     padding: 10px;
     color: white;
@@ -46,11 +46,11 @@ nav ul{
 
 nav{
     font-size: 12px;
-    letter-spacing: 4px; /* espaçamento entre as letras*/
+    letter-spacing: 4px; /* espaçamento entre as letras*//*
     height: 50px;
     background-color: #f03b3b;
     padding-right: 40px;
-}
+}*/
 
 table{
     width: 100%;
