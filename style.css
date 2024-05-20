@@ -22,3 +22,6 @@ h2{
     text-shadow: 2px 2px 2px black;
 }
 
+.rounded {
+    border-radius: 30px; /* Ajuste este valor conforme desejado */
+}
